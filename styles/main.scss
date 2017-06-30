@@ -1,0 +1,9 @@
+@import '../node_modules/sass-autoprefixer/scss/prefixes.scss';
+@import './components/_hero.scss';
+
+html, body {
+  margin : 0;
+  padding: 0;
+}
+
+

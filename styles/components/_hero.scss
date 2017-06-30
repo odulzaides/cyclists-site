@@ -1,0 +1,6 @@
+.hero {
+  background: url('/src/ojai-hero.jpg') center center no-repeat;
+  @include vp-background-size(cover);
+  height:700px;
+  color:white;
+}
