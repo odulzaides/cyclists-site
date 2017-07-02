@@ -29,13 +29,15 @@
 .hero-caption h1 {
   margin :.3em;
   padding-left:1em;
+  padding-top:1em;
+  padding-bottom:0;
+  letter-spacing: .0599em;
 }
 .hero-caption > p {
   font-size:.7em;
-  margin:.5em 5em;
-  padding-left:2em;
-  padding-top:.4em;
-  max-width:60%;
-  line-height: 1.5;
+  margin:.1em 5em;
+  padding-left:1.5em;
+  min-width:80%;
+  line-height: 1.2;
   letter-spacing: 2.2;
 }
