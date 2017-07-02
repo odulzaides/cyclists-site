@@ -1,0 +1,19 @@
+.nav-pages {
+    display:flex;
+    position:absolute;
+    top:1.75em;
+    color:rgba(92.2%, 88%, 58.8%, .7);
+    font-size:1.5em;
+    list-style: none;
+    margin-left:8%;
+    border-bottom:1px solid rgba(92.2%, 88%, 58.8%, .7);
+    padding:.4em;
+}
+
+.nav-pages li {
+    padding:0 1.75em;
+}
+.nav-pages a {
+    text-decoration: none;
+    color:rgba(92.2%, 88%, 58.8%, .7);
+}
