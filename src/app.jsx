@@ -9,7 +9,7 @@ let App = React.createClass({
     return (
       <div>
       <HeroSection />
-      <Nav />
+      {/*<Nav />*/}
       </div>
     );
   }

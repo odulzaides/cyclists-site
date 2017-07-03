@@ -2,9 +2,16 @@
 @import './components/_hero.scss';
 @import './components/_nav.scss';
 
+/* Fonts used in this site
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Raleway', sans-serif; 
+  font-family: 'Open Sans', sans-serif;
+*/
+
 html, body {
   margin : 0;
   padding: 0;
+  font-family: 'Raleway', sans-serif; 
 }
 
 

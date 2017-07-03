@@ -2,7 +2,7 @@ import React from 'react';
 
 const Nav = function (){
     return (
-        <div>
+        <nav>
             <ul className="nav-pages">
                 <li><a href="#">About Us</a></li>
                 <li><a href="#">Rules</a></li>
@@ -11,7 +11,7 @@ const Nav = function (){
                 <li><a href="#">Photo Gallery</a></li>
                 <li><a href="#">Misc</a></li>
             </ul>
-        </div>
+        </nav>
     )
 }
 export default Nav;

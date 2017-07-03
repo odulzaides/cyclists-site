@@ -2,7 +2,6 @@
   background: url('/src/ojai-hero.jpg') center center no-repeat;
   @include vp-background-size(cover);
   height:700px;
-  color:white;
   position:relative;
 }
 .hero-overlay {
@@ -15,16 +14,16 @@
 }
 .hero-caption {
      font-family: 'Dancing Script', cursive;
-     margin-left:3em;
-     margin-top:5em;
      line-height: 1.5;
      letter-spacing: 1.2;
      color:rgba(92.2%, 88%, 58.8%, .7);
+     font-size:3em;
+     margin :0 1.9em;
+     font-weight:bold;
 }
 
 .hero-caption {
-  font-size:3em;
-  margin :3.2em 1.9em;
+ 
 }
 .hero-caption h1 {
   margin :.3em;
