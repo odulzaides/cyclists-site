@@ -8,12 +8,12 @@ const Rides = () => (
         </p>
         <p>
             All rides have a sweeper who rides in the rear.  The sweeper is considered the leader of the ride and helps (as needed) with problems which may develop on the ride --such as flats.  Also, the ride leader may decide to change the ride route due to such reasons as road construction or simply to go on a different route.
-</p>
+        </p>
 
         <h3>Tuesday, Thursday and Sunday rides:</h3>
         <p>
             ride #1.  The "usual" 23 mile ride.  Sweeper is Ron, Charley or Roger.  (<a href="http://connect.garmin.com/activity/97505141">See Garmin map and data</a>)
-</p>
+        </p>
         <p>
 
             ride #2.  A slow ride on mostly flat and very scenic terrain around Ojai.  15.5 , 23 and 32 miles.  You can choose your distance as we go.  Sweeper is either Charlie or Fawzi.  (See <a href="http://connect.garmin.com/activity/228619952">Garmin map and data</a>)
@@ -22,11 +22,11 @@ const Rides = () => (
         <h3>Special rides:</h3>
         <p>
             Special ride #1. Sometimes the sweeper (also considered the ride leader) may decide to change the ride as needed on special occasions.  This special ride #1 avoids route 33 and Creek Road on the way back.  It is 33.6 miles long and you can see a "Garmin map and data" by going to this <a target="_blank" href="http://connect.garmin.com/activity/186029751">link</a>.
-</p>
-<p>
+        </p>
+        <p>
     
             Special ride #2. This ride also avoids a return on route 33 and Creek road, total distance about 27 miles.  Its Garmin Data and map are <a target="_blank" href="http://connect.garmin.com/activity/187722358">here</a>.
-</p>
+        </p>
     </div>
 )
 export default Rides;
