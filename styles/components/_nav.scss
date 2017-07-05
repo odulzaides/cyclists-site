@@ -18,7 +18,11 @@ nav {
 }
 .nav-pages a {
     text-decoration: none;
-    padding: 20px;  
+    padding: 2em 1.5em .6em 1.5em;  
     color:rgba(92.2%, 88%, 58.8%, .7);
     display:block;
 }
+
+/*
+    TODO: add padding to the nav links (li > a) to space them out on the page.
+*/

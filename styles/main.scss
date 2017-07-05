@@ -1,6 +1,9 @@
 @import '../node_modules/sass-autoprefixer/scss/prefixes.scss';
+@import './globals/_variables.scss';
 @import './components/_hero.scss';
 @import './components/_nav.scss';
+@import './globals/generic.scss';
+@import './components/weather.scss';
 
 /* Fonts used in this site
   font-family: 'Dancing Script', cursive;
@@ -11,7 +14,8 @@
 html, body {
   margin : 0;
   padding: 0;
-  font-family: 'Raleway', sans-serif; 
+  font-family: $text-font;
+  background-color:rgba(206,197,145, .3);
 }
 
 
