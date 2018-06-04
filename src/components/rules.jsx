@@ -46,7 +46,7 @@ const Rules = () => (
 
             <li> When you need to blow your nose, cough or spit, be considerate of those beside and behind you.  Move to the leeward side of the pack or, better yet, to the back of the group before blowing your nose, coughing or spitting.  Remember, when riding 15 to 25 mph everything you eject goes backwards quickly enough and far enough to land on fellow riders a considerable distance behind you.</li>
         </ol>
-
+        <a className="center" href="index.html">Back to Top</a>
     </div>
 )
 export default Rules;
